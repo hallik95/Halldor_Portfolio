@@ -14,6 +14,8 @@ Examples from data science projects
 # Machine Learning - Clasisfication
 ## Project 1: Classifying orthopedic patients through biomechanical features using KNN
 
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Pairplot_KNN_Biomechanical.png)
+
 ## Project 2: Determining what drug should be taken using decision tree
 
 ## Project 3: Classifying bening and malignant tumors using Support Vector Machines (SVM)
