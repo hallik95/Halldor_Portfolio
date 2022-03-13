@@ -15,6 +15,8 @@ Examples from data science projects
 ## Project 1: Classifying orthopedic patients through biomechanical features using KNN
 
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Pairplot_KNN_Biomechanical.png)
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Accuracy_KNN_Biomechanical.png)
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Heatmap_KNN_Biomechanical.png)
 
 ## Project 2: Determining what drug should be taken using decision tree
 
