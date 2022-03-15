@@ -5,9 +5,9 @@ Examples from data science projects
 ## Project 1: Predicting CO2 emission with multiple linear regression & polynomial regression
 * Dependent variable: CO2 Emission
 * Independent variables: Engine size, Cylinders, Fuel Consumption (L/100 km)
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/3DScatter_MR_CO2.png)
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Regression_MR_CO2.png)
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Poly_MR_CO2.png)
+![](/images/3DScatter_MR_CO2.png)
+![](/images/Regression_MR_CO2.png)
+![](/images/Poly_MR_CO2.png)
 
 ## Project 2: Predicting house prices with multiple linear regression
 * Dependent variable: House price
@@ -25,9 +25,9 @@ Examples from data science projects
   * LSTAT % lower status of the population
   * MEDV Median value of owner-occupied homes in $1000's
 
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Heatmap_MR_Houseprice.png)
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Hex_MR_Houseprice.png)
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Regression_MR_Houseprice.png)
+![](/images/Heatmap_MR_Houseprice.png)
+![](/images/Hex_MR_Houseprice.png)
+![](/images/Regression_MR_Houseprice.png)
 
 ## Project 3: Predicting GDP with non-linear regression
 
