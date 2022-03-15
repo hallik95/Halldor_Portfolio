@@ -31,7 +31,7 @@ Examples from data science projects
 
 ## Project 3: Predicting GDP with non-linear regression
 
-
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Non_MR_GDP.png)
 
 
 # Machine Learning - Clasisfication
