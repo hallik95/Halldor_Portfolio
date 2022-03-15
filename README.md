@@ -66,5 +66,21 @@ https://ieeexplore.ieee.org/document/8641042/
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Tree_DT_Drug.png)
 
 ## Project 3: Classifying bening and malignant tumors using Support Vector Machines (SVM)
+* Dependent variable: 
+   * Class	- Benign or malignant
+* Independent variables: 
+   *  Clump thickness
+   *  Uniformity of cell size
+   *  Uniformity of cell shape
+   *  Marginal adhesion
+   *  Single epithelial cell size
+   *  Bare nuclei
+   *  Bland chromatin
+   *  Normal nucleoli
+   *  Mitoses
+
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/CM_SVM_Tumor.png)
 
 ## Project 4: Predicting customer churn with logistic regression
+
+
