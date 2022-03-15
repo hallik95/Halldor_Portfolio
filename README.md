@@ -8,11 +8,13 @@ Examples from data science projects
 
 ## Project 2: Predicting house prices with multiple linear regression
 
-## Project 3: Predicting GDP with non-linear regression
-
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Heatmap_MR_Houseprice.png)
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Hex_MR_Houseprice.png)
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Regression_MR_Houseprice.png)
+
+## Project 3: Predicting GDP with non-linear regression
+
+
 
 
 # Machine Learning - Clasisfication
