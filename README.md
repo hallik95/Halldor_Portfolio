@@ -31,7 +31,7 @@ Examples from data science projects
 
 ## Project 3: Predicting GDP with non-linear regression
 
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Non_MR_GDP.png)
+![](/images/Non_MR_GDP.png)
 
 
 # Machine Learning - Clasisfication
@@ -49,9 +49,9 @@ Examples from data science projects
 Implementation on research and data by Hasan, Islam, Samio, Chakrabarty (2018)
 https://ieeexplore.ieee.org/document/8641042/
 
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Pairplot_KNN_Biomechanical.png)
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Accuracy_KNN_Biomechanical.png)
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Heatmap_KNN_Biomechanical.png)
+![](/images/Pairplot_KNN_Biomechanical.png)
+![](/images/Accuracy_KNN_Biomechanical.png)
+![](/images/Heatmap_KNN_Biomechanical.png)
 
 ## Project 2: Determining what drug should be taken using decision tree
 * Dependent variable: 
