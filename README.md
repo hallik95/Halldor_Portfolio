@@ -4,11 +4,15 @@ Examples from data science projects
 # Machine Learning - Regression
 ## Project 1: Predicting CO2 emission with multiple linear regression & polynomial regression
 * Dependent variable: CO2 Emission
-* Independent variables: Engine size, Cylinders, Fuel Consumption (L/100 km) 
+* Independent variables: Engine size, Cylinders, Fuel Consumption (L/100 km)
 
-## Project 2: Predicting GDP with non-linear regression
+## Project 2: Predicting house prices with multiple linear regression
 
+## Project 3: Predicting GDP with non-linear regression
 
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Heatmap_MR_Houseprice.png)
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Hex_MR_Houseprice.png)
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Regression_MR_Houseprice.png)
 
 
 # Machine Learning - Clasisfication
