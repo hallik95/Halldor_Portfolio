@@ -8,6 +8,7 @@ Examples from data science projects
 
 ## Project 2: Predicting house prices with multiple linear regression
 
+
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Heatmap_MR_Houseprice.png)
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Hex_MR_Houseprice.png)
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Regression_MR_Houseprice.png)
