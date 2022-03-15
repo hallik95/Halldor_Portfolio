@@ -36,12 +36,34 @@ Examples from data science projects
 
 # Machine Learning - Clasisfication
 ## Project 1: Classifying orthopedic patients through biomechanical features using KNN
+* Dependent variable: 
+   * Class
+* Independent variables: 
+   *  Pelvic incident
+   *  Pelvic tilt numeric
+   *  Lumber lordosis angle
+   *  Sacral Slope
+   *  Pelvic radius
+   *  Degree spondylolisthesis
+
+Implementation on research and data by Hasan, Islam, Samio, Chakrabarty (2018)
+https://ieeexplore.ieee.org/document/8641042/
 
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Pairplot_KNN_Biomechanical.png)
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Accuracy_KNN_Biomechanical.png)
 ![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Heatmap_KNN_Biomechanical.png)
 
 ## Project 2: Determining what drug should be taken using decision tree
+* Dependent variable: 
+   * Drug - Drug type choice
+* Independent variables: 
+   *  Age
+   *  Sex
+   *  BP - Blood pressure leveles
+   *  Cholesterol
+   *  Na_to_K - Sodium to potassium Ration in Blood
+
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Tree_DT_Drug.png)
 
 ## Project 3: Classifying bening and malignant tumors using Support Vector Machines (SVM)
 
