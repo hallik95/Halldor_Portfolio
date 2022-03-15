@@ -5,6 +5,9 @@ Examples from data science projects
 ## Project 1: Predicting CO2 emission with multiple linear regression & polynomial regression
 * Dependent variable: CO2 Emission
 * Independent variables: Engine size, Cylinders, Fuel Consumption (L/100 km)
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/3DScatter_MR_CO2.png)
+![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Regression_MR_CO2.png)
+
 
 ## Project 2: Predicting house prices with multiple linear regression
 
