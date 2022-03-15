@@ -63,7 +63,7 @@ https://ieeexplore.ieee.org/document/8641042/
    *  Cholesterol
    *  Na_to_K - Sodium to potassium Ration in Blood
 
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/Tree_DT_Drug.png)
+![](/images/Tree_DT_Drug.png)
 
 ## Project 3: Classifying bening and malignant tumors using Support Vector Machines (SVM)
 * Dependent variable: 
@@ -79,7 +79,7 @@ https://ieeexplore.ieee.org/document/8641042/
    *  Normal nucleoli
    *  Mitoses
 
-![](https://github.com/hallik95/Halldor_Portfolio/blob/main/images/CM_SVM_Tumor.png)
+![](/images/CM_SVM_Tumor.png)
 
 ## Project 4: Predicting customer churn with logistic regression
 
