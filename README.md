@@ -79,6 +79,7 @@ https://ieeexplore.ieee.org/document/8641042/
    *  Normal nucleoli
    *  Mitoses
 
+![](/images/Class_SVM_Tumor.png)
 ![](/images/CM_SVM_Tumor.png)
 
 ## Project 4: Predicting customer churn with logistic regression
